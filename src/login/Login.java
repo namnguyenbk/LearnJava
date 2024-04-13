@@ -9,7 +9,7 @@ public class Login {
 
         }
         while (name == ""){
-            break;
+            break
         }
         System.out.print("Login class" + name);
     }
